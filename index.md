@@ -4,13 +4,13 @@
 
  <font color=red>**∩_∩**</font>Hi,  I am Chengcheng,  currently a postdoc in the [Research unit For 2402](https://sites.google.com/site/researchunitfor2402/) at [TU Berlin](https://www.math.tu-berlin.de/arbeitsgruppen/ag_stochfinanz/mitarbeiter/wissenschaftliche_mitarbeiterinnen_und_mitarbeiter/), under the supervision of [Prof. Scheutzow](https://page.math.tu-berlin.de/~scheutzow/) and [Dr. habil. Sebastian Riedel](https://www.analysis.uni-hannover.de/en/institute/people/sebastian-riedel/). I was a Phd student in the [IRTG 2235](https://irtg.math.uni-bielefeld.de/user/ling/start) at [Bielefeld University](https://www.uni-bielefeld.de/(en)/fakultaeten/mathematik/) supervised by [Prof. R"ockner](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10585).
 
-###  <font color=red>Research Interests</font>
+### Research Interests
 
 Stochatic analysis and its ralated, particularly, SDEs with singular drifts, random dynamical systems, PDEs.
 
 
 
-###  <font color=red>Publications</font>
+### Publications
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478) (**PhD thesis 2019**), C.~Ling. 
 2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://arxiv.org/pdf/2002.07097.pdf.) (**Potential Analysis**), C.~Ling, L. Xie 
@@ -20,16 +20,16 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 6. [A Wong-Zakai theorem for SDEs with singular drift](https://arxiv.org/pdf/2109.12158.pdf) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
 
 
-###  <font color=red>Preprints</font>
+### Preprints
 
 1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R\"ockner, X. Zhu.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
 
-###  <font color=red>CV</font>
+###  CV
 Here is my [CV](cv_CCL.pdf).
 
 
-###  <font color=red>Contact</font>
+###  Contact
 
 Email: ling@math.tu-berlin.de
 Office Phone:+49 3031423751
