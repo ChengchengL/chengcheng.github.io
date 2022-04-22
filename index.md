@@ -6,6 +6,9 @@ I am currently a postdoc in the [Research unit For 2402](https://sites.google.co
 ```
 Stochatic analysis and its ralated.
 ```
+### CV
+Here is my [CV](cv_CCL.pdf).
+
 ### Publications
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478) (**PhD thesis 2019**), C.~Ling. 
@@ -22,8 +25,7 @@ Stochatic analysis and its ralated.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L\^e, C.~Ling.
 
 
-### CV
-For more details see my [CV](cv_CCL.pdf).
+
 
 ### Contact
 Email: ling@math.tu-berlin.de
