@@ -3,9 +3,9 @@
 I am currently a postdoc in the [Research unit For 2402](https://sites.google.com/site/researchunitfor2402/)  at TU Berlin, under the supervision of [Prof. Scheutzow](https://page.math.tu-berlin.de/~scheutzow/) and [Dr. habil. Sebastian Riedel](https://www.analysis.uni-hannover.de/en/institute/people/sebastian-riedel/).
 
 ### Research Interests
-```
-Stochatic analysis and its ralated.
-```
+
+Stochatic analysis and its ralated, e.g. SDEs with singular drifts, random dynamical systems, PDEs.
+
 ### CV
 
 Here is my [CV](cv_CCL.pdf).
