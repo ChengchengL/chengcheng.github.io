@@ -1,2 +1,1 @@
-# chengcheng.github.io
-ChengchengLing's Homepage
+# ChengchengLing's Homepage
