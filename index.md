@@ -25,7 +25,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
 
 ### CV
-Here is my [CV](cv_CCL.pdf)
+Here is my [CV](cv_CCL.pdf).
 
 
 ### Contact
