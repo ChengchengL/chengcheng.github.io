@@ -8,7 +8,7 @@ Stochatic analysis and its ralated.
 ```
 ### Publications
 ```Publications
-1. Stochastic Differential Equations with Singular Drifts and Multiplicative Noises, C.~Ling, [PhD thesis (2019)]{https://pub.uni-bielefeld.de/record/2941478}
+1. Stochastic Differential Equations with Singular Drifts and Multiplicative Noises, C.~Ling, [PhD thesis (2019)](https://pub.uni-bielefeld.de/record/2941478)
 2.
 3.
 4.
