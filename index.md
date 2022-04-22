@@ -25,6 +25,10 @@ Stochatic analysis and its ralated.
 ### CV
 For more details see my [CV](cv_CCL.pdf).
 
+### Contact
+Email: ling@math.tu-berlin.de
+
+
 ```markdown
 Syntax highlighted code block
 
