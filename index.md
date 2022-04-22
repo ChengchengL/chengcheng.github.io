@@ -10,7 +10,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 
 
 
-### <font color="#dd0000">Publications</font>
+### <font color=red>Publications</font>
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478) (**PhD thesis 2019**), C.~Ling. 
 2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://arxiv.org/pdf/2002.07097.pdf.) (**Potential Analysis**), C.~Ling, L. Xie 
@@ -20,7 +20,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 6. [A Wong-Zakai theorem for SDEs with singular drift](https://arxiv.org/pdf/2109.12158.pdf) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
 
 
-### <font color="#660000">Preprints</font>
+### <font color=red>Preprints</font>
 
 1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R\"ockner, X. Zhu.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
