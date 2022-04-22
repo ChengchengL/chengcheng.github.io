@@ -1,6 +1,6 @@
 ## Welcome to Chengcheng's Homepage!
 
-I am currently a postdoc in the [research unit](https://sites.google.com/site/researchunitfor2402/)  at TU Berlin, under the supervision of Prof. Scheutzow and Dr. habil. Sebastian Riedel.
+I am currently a postdoc in the [research unit](https://sites.google.com/site/researchunitfor2402/)  at TU Berlin, under the supervision of [Prof. Scheutzow](https://page.math.tu-berlin.de/~scheutzow/) and [Dr. habil. Sebastian Riedel](https://www.analysis.uni-hannover.de/en/institute/people/sebastian-riedel/).
 
 ### Research Interests
 
