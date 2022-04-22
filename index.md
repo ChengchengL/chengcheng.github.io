@@ -4,7 +4,7 @@ Hi, I am Chengcheng Ling (令成成),  currently a postdoc in the [Research unit
 
 ### Research Interests
 
-Stochatic analysis and its ralated, e.g. SDEs with singular drifts, random dynamical systems, PDEs.
+Stochatic analysis and its ralated, particularly, SDEs with singular drifts, random dynamical systems, PDEs.
 
 ### CV
 
