@@ -23,7 +23,7 @@ Stochatic analysis and its ralated.
 
 
 ### CV
-
+For more details see 
 
 ```markdown
 Syntax highlighted code block
