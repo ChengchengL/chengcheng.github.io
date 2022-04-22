@@ -7,7 +7,6 @@ I am currently a postdoc in the [Research unit For 2402](https://sites.google.co
 Stochatic analysis and its ralated.
 ```
 ### Publications
-```Publications
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478), C.Ling **PhD thesis 2019**
 2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://arxiv.org/pdf/2002.07097.pdf.), C.Ling, L. Xie **Potential Analysis**
@@ -16,7 +15,7 @@ Stochatic analysis and its ralated.
 5. [The perfection of local semi-flows and local random dynamical systems with applications to SDEs](https://arxiv.org/pdf/2109.00206.pdf), C.~Ling, M. Scheutzow, I. Vorkastner **Stochastics and Dynamics**
 6. [A Wong-Zakai theorem for SDEs with singular drift](https://arxiv.org/pdf/2109.12158.pdf), C.~Ling, S. Riedel, M. Scheutzow **Journal of Differential Equations**
 
-```
+
 ### Preprints
 ```Preprints
 1.
