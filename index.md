@@ -10,7 +10,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 
 
 
-### <font color=red>Publications</font>
+### <font color=#dd0000>Publications</font>
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478) (**PhD thesis 2019**), C.~Ling. 
 2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://arxiv.org/pdf/2002.07097.pdf.) (**Potential Analysis**), C.~Ling, L. Xie 
