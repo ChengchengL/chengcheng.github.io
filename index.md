@@ -18,7 +18,7 @@ Stochatic analysis and its ralated.
 
 ### Preprints
 
-1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R\"ockner, X. Zhu.
+1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R"ockner, X. Zhu.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L\^e, C.~Ling.
 
 
