@@ -13,10 +13,10 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 ### Publications
 
 1. [Stochastic Differential Equations with Singular Drifts and Multiplicative Noises](https://pub.uni-bielefeld.de/record/2941478) (**PhD thesis 2019**), C.~Ling. 
-2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://arxiv.org/pdf/2002.07097.pdf.) (**Potential Analysis**), C.~Ling, L. Xie 
-3. [Regularity of Local times associated to Volterra-L\'evy processes and  path-wise regularization of stochastic differential equations](https://arxiv.org/pdf/2007.01093.pdf.) (**Journal of Theoretical Probability**), F.A. Harang, C. ~Ling.  
-4. [Nonlocal elliptic equation in H\"older space and the martingale problem](https://arxiv.org/pdf/1907.00588v1.pdf) (**Journal of Differential Equations**), C.~Ling, G. Zhao 
-5. [The perfection of local semi-flows and local random dynamical systems with applications to SDEs](https://arxiv.org/pdf/2109.00206.pdf) (**Stochastics and Dynamics**), C.~Ling, M. Scheutzow, I. Vorkastner. 
+2. [Strong well-posedness for stochastic differential equations with coefficients in mixed-norm spaces](https://link.springer.com/article/10.1007/s11118-021-09913-4) (**Potential Analysis**), C.~Ling, L. Xie 
+3. [Regularity of Local times associated to Volterra-L\'evy processes and  path-wise regularization of stochastic differential equations](https://www.duo.uio.no/bitstream/handle/10852/88145/Harang-Ling2021_Article_RegularityOfLocalTimesAssociat.pdf?sequence=1) (**Journal of Theoretical Probability**), F.A. Harang, C. ~Ling.  
+4. [Nonlocal elliptic equation in H\"older space and the martingale problem](https://www.sciencedirect.com/science/article/abs/pii/S0022039622000316) (**Journal of Differential Equations**), C.~Ling, G. Zhao 
+5. [The perfection of local semi-flows and local random dynamical systems with applications to SDEs](https://www.worldscientific.com/doi/abs/10.1142/S021949372240010X?journalCode=sd) (**Stochastics and Dynamics**), C.~Ling, M. Scheutzow, I. Vorkastner. 
 6. [A Wong-Zakai theorem for SDEs with singular drift](https://arxiv.org/pdf/2109.12158.pdf) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
 
 
