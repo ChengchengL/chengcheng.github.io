@@ -17,7 +17,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 3. [Regularity of Local times associated to Volterra-L\'evy processes and  path-wise regularization of stochastic differential equations](https://www.duo.uio.no/bitstream/handle/10852/88145/Harang-Ling2021_Article_RegularityOfLocalTimesAssociat.pdf?sequence=1) (**Journal of Theoretical Probability**), F.A. Harang, C. ~Ling.  
 4. [Nonlocal elliptic equation in H\"older space and the martingale problem](https://www.sciencedirect.com/science/article/abs/pii/S0022039622000316) (**Journal of Differential Equations**), C.~Ling, G. Zhao 
 5. [The perfection of local semi-flows and local random dynamical systems with applications to SDEs](https://www.worldscientific.com/doi/abs/10.1142/S021949372240010X?journalCode=sd) (**Stochastics and Dynamics**), C.~Ling, M. Scheutzow, I. Vorkastner. 
-6. [A Wong-Zakai theorem for SDEs with singular drift](https://arxiv.org/pdf/2109.12158.pdf) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
+6. [A Wong-Zakai theorem for SDEs with singular drift](https://www.sciencedirect.com/science/article/pii/S0022039622002674?dgcid=coauthor) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
 
 
 ### Preprints
