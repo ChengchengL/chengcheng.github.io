@@ -25,7 +25,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R\"ockner, X. Zhu.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
 3. [Stability estimates for singular SDEs and applications](https://arxiv.org/pdf/2208.03670.pdf) L. Galeati, C.~Ling.
-
+4. [Expansion and attraction of RDS:  long time behavior of the solution to singular SDE](https://arxiv.org/pdf/2211.14202.pdf)  C.~Ling, M. Scheutzow.
 ###  CV
 Here is my [CV](cv_CCL.pdf).
 
