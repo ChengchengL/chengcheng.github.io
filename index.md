@@ -18,14 +18,13 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 4. [Nonlocal elliptic equation in H\"older space and the martingale problem](https://www.sciencedirect.com/science/article/abs/pii/S0022039622000316) (**Journal of Differential Equations**), C.~Ling, G. Zhao 
 5. [The perfection of local semi-flows and local random dynamical systems with applications to SDEs](https://www.worldscientific.com/doi/abs/10.1142/S021949372240010X?journalCode=sd) (**Stochastics and Dynamics**), C.~Ling, M. Scheutzow, I. Vorkastner. 
 6. [A Wong-Zakai theorem for SDEs with singular drift](https://www.sciencedirect.com/science/article/pii/S0022039622002674?dgcid=coauthor) (**Journal of Differential Equations**), C.~Ling, S. Riedel, M. Scheutzow. 
-
+7. [Stability estimates for singular SDEs and applications](https://arxiv.org/pdf/2208.03670.pdf) (**Electronic Journal of Probability** to appear) L. Galeati, C.~Ling.
 
 ### Preprints
 
 1. [SDEs with singular drifts and multiplicative noise on general space-time domains](https://arxiv.org/pdf/1910.03989.pdf.)  C.~Ling, M. R\"ockner, X. Zhu.
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
-3. [Stability estimates for singular SDEs and applications](https://arxiv.org/pdf/2208.03670.pdf) L. Galeati, C.~Ling.
-4. [Expansion and attraction of RDS:  long time behavior of the solution to singular SDE](https://arxiv.org/pdf/2211.14202.pdf)  C.~Ling, M. Scheutzow.
+3. [Expansion and attraction of RDS:  long time behavior of the solution to singular SDE](https://arxiv.org/pdf/2211.14202.pdf)  C.~Ling, M. Scheutzow.
 ###  CV
 Here is my [CV](cv_CCL.pdf).
 
