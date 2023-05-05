@@ -31,12 +31,12 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 ###  CV
 Here is my [CV](cv_CCL.pdf).
 
-![img](https://github.com/ChengchengL/chengcheng.github.io/blob/gh-pages/tom-and-jerry-icegif-14.gif)
+
 
 
 ###  Contact
 
-Email: chengcheng.ling@asc.tuwien.ac.at
+Email: chengcheng.ling@asc.tuwien.ac.at ![img](https://github.com/ChengchengL/chengcheng.github.io/blob/gh-pages/tom-and-jerry-icegif-14.gif)
 
 Address: Wiedner Hauptstraße 8, 1040 Wien,  DA 06 F22
 
