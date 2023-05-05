@@ -31,7 +31,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 ###  CV
 Here is my [CV](cv_CCL.pdf).
 
-![img](https://tenor.com/view/tom-and-jerry-gif-26736131)
+![img]([https://tenor.com/view/tom-and-jerry-gif-26736131](https://github.com/ChengchengL/chengcheng.github.io/blob/gh-pages/tom-and-jerry.gif))
 
 
 ###  Contact
