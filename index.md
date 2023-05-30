@@ -26,6 +26,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 2. [Taming singular stochastic differential equations: A numerical method](https://arxiv.org/pdf/2110.01343.pdf) K. L^e, C.~Ling.
 3. [Expansion and attraction of RDS:  long time behavior of the solution to singular SDE](https://arxiv.org/pdf/2211.14202.pdf)  C.~Ling, M. Scheutzow.
 4. [Path-by-path uniqueness for stochastic differential equations under Krylov-Röckner condition](https://arxiv.org/pdf/2304.06802.pdf)  L. Anzeletti, K. Lê, C.~Ling.
+5. [The Milstein scheme for singular SDEs with Hölder continuous drift](https://arxiv.org/pdf/2305.16004.pdf) M. Gerencsér, G Lampl, C. ~Ling.
 
 
 ###  CV
