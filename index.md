@@ -30,7 +30,7 @@ Stochatic analysis and its ralated, particularly, SDEs with singular drifts, ran
 
 
 ###  CV
-Here is my [CV](cv_CCL.pdf).
+Here is my detailed [CV](cv_CCL.pdf).
 
 
 
