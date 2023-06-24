@@ -6,7 +6,7 @@
 
 ### Research Interests
 
-Stochatic analysis and its ralated, particularly, SDEs with singular drifts, random dynamical systems, PDEs, machine learning (for fun)
+Stochatic analysis and its ralated, particularly, SDEs with singular drifts, random dynamical systems, PDEs, stochastic numerics, machine learning (for fun)
 
 
 
