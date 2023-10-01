@@ -38,6 +38,6 @@ Here is my detailed [CV](cv_CCL.pdf).
 ###  Contact
 
 Email: 	chengcheng.ling@uni-a.de      Phone: +49 	2246          
-Address: 	3041C (L1) Universitätsstraße 14, 86159 Augsburg, Germany
+Address: 	3041C (L1), Universitätsstraße 14, 86159 Augsburg, Germany
 
 
